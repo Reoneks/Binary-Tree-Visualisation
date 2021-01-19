@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/media">
+        <file>images/EndCreditsBackground.png</file>
+        <file>fonts/StarC.otf</file>
+        <file>images/MainwindowBackground.png</file>
+        <file>images/HelpBackground.png</file>
+        <file>images/Logo.png</file>
+    </qresource>
+</RCC>
